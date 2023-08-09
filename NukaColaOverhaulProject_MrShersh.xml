@@ -52780,9 +52780,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopGumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Жевательная резинка (15 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Bubblegum (15 credits)</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -52793,9 +52793,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopGumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Жевательные пластинки (15 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Gum drops (15 credits)</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53001,9 +53001,10 @@ Credits available: %.0f</TRADUIT>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Для приобретения товаров необходима специальная ключ-карта.
 Возможно, стоит спросить о ней у владельца заведения.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>To purchase goods, a special key card is required.
+Perhaps you should ask the owner of the establishment about it.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53092,9 +53093,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuStrumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Новичок</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Beginner</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53118,9 +53119,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuStrumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Обычный</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Basic</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53345,9 +53346,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsFriendsOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный напиток "Палпи"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Drink "Puply"</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53358,9 +53359,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsFriendsOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный напиток "Сок кактуса"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Drink "Cactus Juice"</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53438,9 +53439,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsFriendsTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный коктейль Шерша "Мейстер + Кола"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Shersh Cocktail "Meister + Cola"</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53451,9 +53452,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsFriendsTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный ядер-самогон</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Nukashine</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53464,9 +53465,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Что вы хотите сыграть дуэтом?</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>What do you want to play as a duet?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53490,9 +53491,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Список дуэтной музыки 1</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Duet Music list 1</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53503,9 +53504,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Список дуэтной музыки 2</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Duet Music list 2</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53516,9 +53517,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Сыграть соло</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Play a solo</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53706,9 +53707,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Nuka Cola</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Nuka Cola</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53719,9 +53720,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - I Green Leaves</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - I Green Leaves</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53732,9 +53733,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Begin The Begin</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Begin The Begin</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53745,9 +53746,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Lamento</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Lamento</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53758,9 +53759,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Little America</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Little America</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53771,9 +53772,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Gamer</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Gamer</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53784,9 +53785,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - The Cranberries - Zombie</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - The Cranberries - Zombie</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53797,9 +53798,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Back to The Future</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Back to The Future</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53875,9 +53876,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Play fo Live</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Play fo Live</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53888,9 +53889,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Padaly Zamertvo</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Padaly Zamertvo</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53901,9 +53902,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Vne Smerty</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Vne Smerty</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53914,9 +53915,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Go to the Stars</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Go to the Stars</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53927,9 +53928,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Night before fight</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Night before fight</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53940,9 +53941,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Devil May Cry</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Devil May Cry</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53953,9 +53954,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - The Hero with a Thousand Faces</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - The Hero with a Thousand Faces</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53966,9 +53967,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsDuetAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Here to you is my blood</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Here to you is my blood</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -53995,9 +53996,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeToiletWRMSG</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Облегчение.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Relief.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54022,9 +54023,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershColaholicPerkMsg</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Добавлена способность "Колаголик"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Added "Colaholic" Perk</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54049,9 +54050,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershCowboyTricksPerkMsg</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Добавлена способность "Ковбойские хитрости"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Added "Cowboy Tricks" Perk</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54133,9 +54134,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMixMasterPerkMsg</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Добавлена способность "Микс-мастер"</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Added "Mix-master" Perk</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54271,9 +54272,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBathIconMSG</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Вы помылись.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>You washed.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54349,9 +54350,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershFridgeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Согреть все напитки</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Warm up all drinks</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54402,9 +54403,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershMarinaFoxWTTFamilyMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Добро пожаловать в семью</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Welcome to the family</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54441,9 +54442,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Побренчать</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Strumming</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54519,9 +54520,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Сыграть в дуэте</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Play a duet</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54532,9 +54533,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Уровень игры</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Playing level</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54584,9 +54585,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Eminem Lose Yourself</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Eminem Lose Yourself</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54597,9 +54598,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - One of Us</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - One of Us</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54610,9 +54611,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Was Wollen Wir Trinken Sieben Tage Lang</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Was Wollen Wir Trinken Sieben Tage Lang</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54623,9 +54624,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Guitar Boogie</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Guitar Boogie</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54636,9 +54637,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Stranger Things Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Stranger Things Theme</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54649,9 +54650,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Cranberries Zombie</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Cranberries Zombie</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54662,9 +54663,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Skillet Hero</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Skillet Hero</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54675,9 +54676,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsModAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Misirlou  Pulp Fiction Antonis Simixis</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Misirlou  Pulp Fiction Antonis Simixis</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54727,9 +54728,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Pirates</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Pirates</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54740,9 +54741,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Crawling</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Crawling</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54753,9 +54754,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Harry Potter</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Harry Potter</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54766,9 +54767,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Requiem for a Dream</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Requiem for a Dream</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54779,9 +54780,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Big Iron Marty Robbins</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Big Iron Marty Robbins</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54792,9 +54793,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Game of Thrones</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Game of Thrones</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54805,9 +54806,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Smells Like Teen Spririt</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Smells Like Teen Spririt</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54818,9 +54819,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFourMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Devil May Cry Nicos Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Devil May Cry Nicos Theme</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54900,9 +54901,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Eminem Lose Yourself</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Eminem Lose Yourself</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54913,9 +54914,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - One of Us</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - One of Us</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54926,9 +54927,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Was Wollen Wir Trinken Sieben Tage Lang</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Was Wollen Wir Trinken Sieben Tage Lang</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54939,9 +54940,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Guitar Boogie</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Guitar Boogie</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54952,9 +54953,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Stranger Things Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Stranger Things Theme</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54965,9 +54966,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Cranberries Zombie</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Cranberries Zombie</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54978,9 +54979,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Skillet Hero</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Skillet Hero</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -54991,9 +54992,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListFiveMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Misirlou Pulp Fiction Antonis Simixis</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Misirlou Pulp Fiction Antonis Simixis</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55056,9 +55057,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Devil May Cry</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Devil May Cry</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55069,9 +55070,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Victor Tsoy Legend</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Victor Tsoy Legend</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55082,9 +55083,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Titanic</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Titanic</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55095,9 +55096,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - 28 Days later</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - 28 Days later</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55108,9 +55109,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Highwayman</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Highwayman</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55121,9 +55122,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Victor Tsoy Strange fairy tale</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Victor Tsoy Strange fairy tale</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55134,9 +55135,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Country Roads</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Country Roads</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55147,9 +55148,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Admiral Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Admiral Theme</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55199,9 +55200,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Cranberries Ordinary day</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Cranberries Ordinary day</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55212,9 +55213,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Spring Thief</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Spring Thief</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55225,9 +55226,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Somebody that I used to Know</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Somebody that I used to Know</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55238,9 +55239,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Never Gonna Give You Up</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Never Gonna Give You Up</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55251,9 +55252,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Skyrim Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Skyrim Theme</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55264,9 +55265,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - The House of the Rising Sun</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - The House of the Rising Sun</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55277,9 +55278,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Yann Tiersen Comptine</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Yann Tiersen Comptine</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55290,9 +55291,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - George Michael Careless Whisper</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - George Michael Careless Whisper</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55469,9 +55470,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 1 - Cranberries Empty</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 1 - Cranberries Empty</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55482,9 +55483,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Cranberries Never grow old</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Cranberries Never grow old</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55495,9 +55496,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Iggy Pop Arizona Dream</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Iggy Pop Arizona Dream</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55508,9 +55509,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - New Divide</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - New Divide</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55521,9 +55522,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Cranberries Animal Instinct</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Cranberries Animal Instinct</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55534,9 +55535,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Paradise</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Paradise</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55547,9 +55548,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Cranberries Hollywood</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Cranberries Hollywood</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55560,9 +55561,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Metro Theme</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Metro Theme</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55716,9 +55717,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuStrumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Новичок</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Beginner</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55742,9 +55743,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsAcousticSongChooserMenuStrumMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Обычный</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Basic</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55833,9 +55834,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Побренчать</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Strumming</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55964,9 +55965,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - As you are guitar</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - As you are guitar</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55977,9 +55978,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Back in Black</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Back in Black</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55990,9 +55991,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Breaking the law</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Breaking the law</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56003,9 +56004,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - Dressed man</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - Dressed man</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56016,9 +56017,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Fortunate Son</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Fortunate Son</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56029,9 +56030,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - Highway to Hell</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - Highway to Hell</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56042,9 +56043,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Personal Jesus</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Personal Jesus</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56151,9 +56152,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 2 - Iron man</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 2 - Iron man</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56164,9 +56165,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 3 - Overkill</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 3 - Overkill</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56177,9 +56178,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 4 - Seek and Destroy</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 4 - Seek and Destroy</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56190,9 +56191,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 5 - The Number of the Beast</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 5 - The Number of the Beast</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56203,9 +56204,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 6 - Unforgiven</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 6 - Unforgiven</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56216,9 +56217,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 7 - USA Anthem</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 7 - USA Anthem</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56229,9 +56230,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershPersonalGuitarsElectroSongChooserMenuMusicListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Песня 8 - Rite of Passage</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Song 8 - Rite of Passage</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56309,9 +56310,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный напиток "Палпи" (30 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Drink "Puply" (30 кредитов)</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56322,9 +56323,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный напиток "Сок кактуса" (25 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Drink "Cactus Juice" (25 credits)</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56402,9 +56403,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный коктейль Шерша "Мейстер + Кола" (50 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Shersh Cocktail "Meister + Cola" (50 credits)</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56415,9 +56416,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeBarTapsTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Фирменный ядер-самогон (65 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Brand Nukashine (65 credits)</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56445,9 +56446,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeToiletMSGClear</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Соблюдай чистоту</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Keep it clean</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56472,9 +56473,9 @@ Credits available: %.0f</TRADUIT>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Кола Алекса на вкус похожа
 на жевательную резинку баблгам.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Alexa Cola tastes like bubblegum chewing gum.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56875,9 +56876,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Главы с 1 - 8</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Chapters from 1 - 8</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56888,9 +56889,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Главы с 9 - 16</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Chapters from 9 - 16</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56901,9 +56902,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Главы с 17 - 24</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Chapters from 17 - 24</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -56927,9 +56928,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закрыть дневник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Close Diary</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -57070,9 +57071,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuListOneMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закрыть дневник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Close Diary</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -57213,9 +57214,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuListTwoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закрыть дневник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Close Diary</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -57356,9 +57357,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryMenuListThreeMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закрыть дневник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Close Diary</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61047,9 +61048,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMDiaryC25P2</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закрыть дневник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Close Diary</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61148,9 +61149,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeGuitarIntroMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Справка по игре на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing guide</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61246,9 +61247,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershGPGMLoveNoteMSG03</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закончить чтение</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>End of Reading</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61273,9 +61274,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelOneMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61355,9 +61356,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelTwoMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61438,9 +61439,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelThreeMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61491,9 +61492,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelFourMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61544,9 +61545,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelFiveMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61597,9 +61598,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelSixMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61650,9 +61651,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelSevenMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61703,9 +61704,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelEightMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61781,9 +61782,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeDinnerNort</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Вы вкусно поели.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>You've eaten well.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61794,9 +61795,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeFoodPieNort</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Это было очень вкусно.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>It was very delicious.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61892,9 +61893,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerLevelZeroMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Уровень игры на гитаре</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Guitar playing level</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>98</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61984,9 +61985,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershPersonalGuitarsPlayerProgressLimitMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Превышен лимит</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>The limit has been exceeded</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62023,9 +62024,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeGuitarSongChooserMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Сыграть дуэтом</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Play a duet</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62062,9 +62063,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeGuitarSongChooserMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Дьявол может плакать</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Devil May Cry</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62075,9 +62076,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeGuitarSongChooserMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Титаник</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Titanic</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62088,9 +62089,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMarinaFoxHomeGuitarSongChooserMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Пираты</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Pirates</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62251,9 +62252,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Безалкогольные напитки</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Soft drinks</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62264,9 +62265,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopMainMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Закуска</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Appetizer</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62410,9 +62411,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopAlcoMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Вино (50 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Wine (50 credits)</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62504,9 +62505,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopSodaMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Обычная кола (35 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Classic Cola (35 credits)</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62608,9 +62609,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeFruitBowlNort</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Это было вкусно и полезно.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>It was delicious and nutritious.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
