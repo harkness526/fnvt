@@ -23409,7 +23409,7 @@ Amulet
     <EDID>MrShershWellFedHamster</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Сытый хомячок</ORIGINAL>
-    <TRADUIT>Fed Hamster</TRADUIT>
+    <TRADUIT>Well-Fed Hamster</TRADUIT>
     <INDEX>1</INDEX>
     <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
@@ -27736,7 +27736,7 @@ You have been warned ^</TRADUIT>
     <ID>06008373</ID>
     <EDID>MrShershNukaColaFogashugaSongLabel</EDID>
     <CHAMP>TNAM</CHAMP>
-    <ORIGINAL>         And even if you’re tired
+    <ORIGINAL>         And even if you're tired
 
           Question is in my head
 
@@ -27744,7 +27744,7 @@ You have been warned ^</TRADUIT>
 
                Get it or deny it
 
-        Stand out don’t be quite
+        Stand out don't be quite
 
          Got no right to disallow
 
@@ -53573,9 +53573,10 @@ Credits available: Family friend :)</TRADUIT>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Личный минибар владельца.
 Не для продажи (!)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Owner's personal minibar.
+Not for sale (!)</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55005,9 +55006,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershSleepWithBHNotifMSG</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Толсторожки выглядят раздражённо.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Bighornerkins look annoyed.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55306,9 +55307,11 @@ Credits available: Family friend :)</TRADUIT>
     <ORIGINAL>Вы провели ни один час бок о бок с толсторожками Марины Фокс.
 Похоже, они стали принимать вас за своего и спокойно относятся 
 к вашему присутствию.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>You've spent more than one hour side by side with Marina Fox's bighornerkins.
+It seems that they began to take you for their own and treat you calmly
+to your presence.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55319,9 +55322,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershRepMFBHaddMSG</EDID>
     <CHAMP>FULL</CHAMP>
     <ORIGINAL>Друг толсторожек Марины Фокс</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Friend of Marina Fox's Bighornerkins</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -55332,9 +55335,9 @@ Credits available: Family friend :)</TRADUIT>
     <EDID>MrShershSleepWithBHNotifTwoMSG</EDID>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Толсторожки выглядят спокойными.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Bighornerkins look calm.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -61972,9 +61975,10 @@ Credits available: %.0f</TRADUIT>
     <CHAMP>DESC</CHAMP>
     <ORIGINAL>Мне нужно поговорить с Мариной,
 чтобы научиться играть лучше.</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>I need to talk to Marina
+to learn how to play better.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>90</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62769,9 +62773,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopRLMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Набор "Сытый хомячок" (1000 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>"Well-Fed Hamster" Bundle (1000 credits)</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62782,9 +62786,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopRLMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Набор "Ужин в баре" (600 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>"Bar Dinner" Bundle (600 credits)</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62795,9 +62799,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopRLMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Набор "Завтрак туриста" (300 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>"Tourist Breakfast" Bundle (300 credits)</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62808,9 +62812,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopRLMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Набор "Голодный пьяница" (250)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>"Hungry Drunkard" Bundle (250 credits)</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
@@ -62821,9 +62825,9 @@ Credits available: %.0f</TRADUIT>
     <EDID>MrShershMFHomeBarShopRLMSG</EDID>
     <CHAMP>ITXT</CHAMP>
     <ORIGINAL>Сухой паек ИРП (400 кредитов)</ORIGINAL>
-    <TRADUIT />
+    <TRADUIT>Ready-to-eat MRE (400 credits)</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE />
     <ICON>-1</ICON>
