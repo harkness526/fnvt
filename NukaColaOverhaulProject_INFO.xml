@@ -34117,9 +34117,9 @@ EmotionType : Anger</COMMENTAIRE>
     <EDID>MrShershMFKnowBenny</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Хм... Вроде, не встречала такого. Но эй, знаешь что. Попробуй пораспрашивать в Вегасе. Уверена, кто-нибудь, да знает этого парня.</ORIGINAL>
-    <TRADUIT>Hm... I haven't come across that. But hey, you know what. Try asking around in Vegas. I'm sure someone must know that guy.</TRADUIT>
+    <TRADUIT>Hm... I haven't come across him. But hey, you know what. Try asking around in Vegas. I'm sure someone must know that guy.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34135,9 +34135,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFKnowBenny</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Если не секрет, то с какой целью ты его ищешь?</ORIGINAL>
-    <TRADUIT>If it's not a secret, what's your goal in finding it?</TRADUIT>
+    <TRADUIT>If it's not a secret, what's your goal in finding him?</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34194,7 +34194,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ох... Это ужасно. Даже представить не могу, каково это, пережить такое.</ORIGINAL>
     <TRADUIT>Oh... That's terrible. I can't even imagine what it's like to go through something like that.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060A8014]MrShershMFBennyQuestionsQUEST) Вопросы МФ о Бэнни
@@ -34209,7 +34209,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Знаешь, что! Ко мне в бар часто заходят ребята из города. Если узнаю что-нибудь об этом человеке, то непременно дам тебе знать.</ORIGINAL>
     <TRADUIT>You know what! Guys from the town often come to my bar. If I find out something about this person, I'll definitely let you know.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060A8014]MrShershMFBennyQuestionsQUEST) Вопросы МФ о Бэнни
@@ -34261,9 +34261,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFKnowBennyATwo</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Да, это неприятно. Слушай. ко мне часто приходят из города. Они любят поболтать. Если узнаю что-нибудь об этом парне, то дам тебе знать.</ORIGINAL>
-    <TRADUIT>Yeah, that's unpleasant. Listen. People from the town often come to me. They like to chat. If I find out anything about that guy, I'll let you know.</TRADUIT>
+    <TRADUIT>Yeah, that's not pleasant. Listen. People from the town often come here. They do like to chat. If I find out anything about that guy, I'll let you know.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060A8014]MrShershMFBennyQuestionsQUEST) Вопросы МФ о Бэнни
@@ -34317,7 +34317,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Хм... Как скажешь.</ORIGINAL>
     <TRADUIT>Hm... As you say.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060A8014]MrShershMFBennyQuestionsQUEST) Вопросы МФ о Бэнни
@@ -34369,9 +34369,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMarinaFoxHowAreYouBenny</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Да? И что ты с ним сделал?</ORIGINAL>
-    <TRADUIT>Yeah? And what did you do with it?</TRADUIT>
+    <TRADUIT>Yeah? And what did you do with him?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060769E8]MrShershMFKakDelaQUEST) 060769E8 (EDID)
@@ -34410,9 +34410,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMarinaFoxHowAreYouBennyAone</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Не осуждаю. Он это заслужил. Я бы заставила его страдать перед смертью.</ORIGINAL>
-    <TRADUIT>I don't judge. He deserved it. I would have made him suffer before he died.</TRADUIT>
+    <TRADUIT>No judging. He deserved it. I would have made him suffer before he died.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060769E8]MrShershMFKakDelaQUEST) 060769E8 (EDID)
@@ -34438,9 +34438,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMarinaFoxHowAreYouBennyAone</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Не осуждаю. Он это заслужил. Я бы заставила его страдать перед смертью.</ORIGINAL>
-    <TRADUIT>I don't judge. He deserved it. I would have made him suffer before he died.</TRADUIT>
+    <TRADUIT>No judging. He deserved it. I would have made him suffer before he died.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060769E8]MrShershMFKakDelaQUEST) 060769E8 (EDID)
@@ -34479,9 +34479,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMarinaFoxHowAreYouBennyATwo</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Хм... Неожиданный исход. Лично я бы, как минимум, оставила его без хозяйства, если уж не прибила на месте.</ORIGINAL>
-    <TRADUIT>Hm... Unexpected outcome. Personally, I would at least leave him destitute, if not kill him on the spot.</TRADUIT>
+    <TRADUIT>Hm... Unexpected outcome. Personally, I would at least cut his balls, if not kill him on the spot.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060769E8]MrShershMFKakDelaQUEST) 060769E8 (EDID)
@@ -34507,9 +34507,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMarinaFoxHowAreYouBennyATwo</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Хм... Неожиданный исход. Лично я бы, как минимум, оставила его без хозяйства, если уж не прибила на месте.</ORIGINAL>
-    <TRADUIT>Hm... Unexpected outcome. Personally, I would at least leave him destitute, if not kill him on the spot.</TRADUIT>
+    <TRADUIT>Hm... Unexpected outcome. Personally, I would at least cut his balls, if not kill him on the spot.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060769E8]MrShershMFKakDelaQUEST) 060769E8 (EDID)
@@ -34548,9 +34548,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Давай договоримся так: я отвечу один раз и больше мы эту тему поднимать не будем, не люблю ее мусолить.</ORIGINAL>
-    <TRADUIT>Let's agree like this: I'll answer once, and we won't bring up this topic again, I don't like dwelling on it.</TRADUIT>
+    <TRADUIT>Here`s the deal: I'll answer once, and we won't bring up this topic again, I don't like it.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34566,9 +34566,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Если в целом, то по большей части мне все равно, кто стоит у руля, главное, чтобы это не мешало моему бизнесу.</ORIGINAL>
-    <TRADUIT>Overall, I'm mostly indifferent about who's in charge, as long as it doesn't interfere with my business.</TRADUIT>
+    <TRADUIT>Overall, I dont care about who's in charge, as long as it doesn't interfere with my business.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34584,9 +34584,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Легион мне, откровенно говоря, совсем не по душе из-за их отношения к женскому полу. Думаю, тут как бы очевидно.</ORIGINAL>
-    <TRADUIT>Honestly, I really dislike the Legion because of their attitude towards the female gender. I think that's pretty obvious.</TRADUIT>
+    <TRADUIT>Honestly, I really dislike the Legion because of their attitude towards the women. I think that's pretty obvious.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34602,9 +34602,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Как-то раз мы с парнем наткнулись на парочку этих дикарей. Хотели пройти мимо, но им, видимо, захотелось проявить себя.</ORIGINAL>
-    <TRADUIT>Once, my guy and I stumbled upon a couple of these savages. We wanted to walk past, but they apparently wanted to prove themselves.</TRADUIT>
+    <TRADUIT>Once, my boyfriend and I stumbled upon a couple of these savages. We wanted to walk past, but they apparently wanted to prove themselves.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34622,7 +34622,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Назвали нас дегенератами и орали что-то о том, что посадят нас на крест.</ORIGINAL>
     <TRADUIT>They called us degenerates and yelled something about crucifying us.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34640,7 +34640,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>В общем, эта парочка понеслась на нас с ножами, против огнестрела.</ORIGINAL>
     <TRADUIT>Anyway, these two came at us with knives, against firearms.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34656,9 +34656,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Не знаю, что стало с этими ребятами по итогу. Но, теперь они скорее женского пола, нежели мужского, если ты понимаешь о чем я.</ORIGINAL>
-    <TRADUIT>I don't know what happened to those guys in the end. But now they're more like the female gender than male, if you catch my drift.</TRADUIT>
+    <TRADUIT>I don't know what happened to those guys in the end. But now they're more like the women than men, if you know what I mean.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34676,7 +34676,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>НКР - пропитанные пропагандой дети. Но, в отличии от Легиона, не ведут себя, как животные. Во всяком случае, у меня с ними проблем не возникало.</ORIGINAL>
     <TRADUIT>NCR - propaganda-soaked kids. But unlike the Legion, they don't act like animals. At least, I haven't had any problems with them.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34694,7 +34694,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Хаус? Ну, на самом деле, я практически без понятия, кто он такой. Знаю лишь, что он, вроде как, управлял Вегасом, но какие у него цели - без понятия.</ORIGINAL>
     <TRADUIT>Mr. House? Well, to be honest, I have little idea who he is. I only know that he sort of ruled Vegas, but his goals - no idea.</TRADUIT>
     <INDEX>9</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34712,7 +34712,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Тут на Западе, вроде, есть ещё Братсво стали, но я о них мало чего слышала, кроме того, что они любят отбирать технологии.</ORIGINAL>
     <TRADUIT>Out here in the West, there's the Brotherhood of Steel, I think. But I haven't heard much about them except that they like to confiscate technology.</TRADUIT>
     <INDEX>10</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34725,9 +34725,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>А я, как видишь, обожаю технологии и отдавать их кучке каких-то ребят, точно не собираюсь.</ORIGINAL>
-    <TRADUIT>And as you can see, I love technology, and I'm definitely not planning to hand it over to some bunch of guys.</TRADUIT>
+    <TRADUIT>And as you can see, I love technology, and I'm definitely not planning to hand it over to some guys.</TRADUIT>
     <INDEX>11</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34743,9 +34743,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Мой парень и папа рассказалывали мне ещё об одной группировке. Это, вроде как, старое правительство, которое пережило войну.</ORIGINAL>
-    <TRADUIT>My guy and dad also told me about another faction. It's like the old government that survived the war.</TRADUIT>
+    <TRADUIT>My boyfriend and my dad also told me about another faction. It's like the old government that survived the war.</TRADUIT>
     <INDEX>12</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34758,9 +34758,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Называется - Анклав. Парень говорил, что встречался с ними и, что все люди для них уже не граждане, а враги. Стреляют во всех без предупреждения.</ORIGINAL>
-    <TRADUIT>They're called the Enclave. The guy said he encountered them and that they see all people as enemies, not citizens. They shoot at everyone without warning.</TRADUIT>
+    <TRADUIT>They're called the Enclave. My boyfriend said he encountered them and that they see all people as enemies, not citizens. They shoot at everyone without warning.</TRADUIT>
     <INDEX>13</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34778,7 +34778,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Вот вам и правительство, да? Не понимаю, и не хочу понимать логику их действий по отношению к гражданам своей же страны.</ORIGINAL>
     <TRADUIT>So there you have it, a government, huh? I don't understand, and I don't want to understand the logic behind their actions towards their own country's citizens.</TRADUIT>
     <INDEX>14</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34794,9 +34794,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>В общем, что-то я уже заболталась... Короче говоря, мне никто особо не симпатизирует.</ORIGINAL>
-    <TRADUIT>Anyway, I've rambled on enough... In short, I don't particularly like anyone.</TRADUIT>
+    <TRADUIT>Anyway, I've said enough... In short, I don't particularly like anyone.</TRADUIT>
     <INDEX>15</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34814,7 +34814,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Мне плевать, какое у кого дерьмо в голове, лишь бы он оставил это за пределами моей территории и не втирал мне, кого я должна поддерживать.</ORIGINAL>
     <TRADUIT>I don't care what kind of crap is in someone's head, as long as they leave it outside my territory and don't tell me who I should support.</TRADUIT>
     <INDEX>16</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34830,9 +34830,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Мы с парнем вне политики, пока это не касается наших дел, или жизни.</ORIGINAL>
-    <TRADUIT>The guy and I are out of politics, as long as it doesn't affect our business or lives.</TRADUIT>
+    <TRADUIT>My boyfriend and I are out of politics, as long as it doesn't affect our business or lives.</TRADUIT>
     <INDEX>17</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34848,9 +34848,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFPolitica</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Конечно, в душе мы желаем, чтобы у руля стоял тот, кто будет нести мир и процветание на наших землях. Но попробуй найти таких ребят.</ORIGINAL>
-    <TRADUIT>Of course, deep down, we wish for someone at the helm who would bring peace and prosperity to our lands. But try finding guys like that.</TRADUIT>
+    <TRADUIT>Of course, deep down, we wish for someone incharge who would bring peace and prosperity to our lands. But try finding guys like that.</TRADUIT>
     <INDEX>18</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34868,7 +34868,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ты можешь со мной не соглашаться, но, я заранее разделяю и твою точку зрения, а потому, говорю наперед.</ORIGINAL>
     <TRADUIT>You don't have to agree with me, but I already anticipate your viewpoint, so I'm stating it in advance.</TRADUIT>
     <INDEX>19</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34886,7 +34886,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Все, что касается политики - оставляй за дверью и у нас будет меньше причин для ссор. Заранее, спасибо за понимание.</ORIGINAL>
     <TRADUIT>Leave all politics at the door, and we'll have fewer reasons to argue. Thanks in advance for your understanding.</TRADUIT>
     <INDEX>20</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34928,9 +34928,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Хех! Это одна из фишек этого класного дома. Система самообслуживания для клиентов моего заведения.</ORIGINAL>
-    <TRADUIT>Heh! This is one of the cool features of this house. A self-service system for the patrons of my establishment.</TRADUIT>
+    <TRADUIT>Heh! This is one of the cool features of this house. A self-service system for the clients of my establishment.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34943,9 +34943,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Мой парень хорош в работе с техникой и автоматизировал многие вещи в доме,значительно упрощают нам жизнь. Чего только стоит система безопастности.</ORIGINAL>
-    <TRADUIT>My guy is skilled with technology and has automated many things in the house, making our lives much easier. The security system alone is worth mentioning.</TRADUIT>
+    <TRADUIT>My boyfriend is good with technology and has automated many things in our house, making our lives much easier. The security system alone is worth mentioning.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34960,7 +34960,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Фишка самообслуживанием позволяет мне заниматься своими делами или спокойно спать.</ORIGINAL>
     <TRADUIT>The self-service feature allows me to take care of my own business or sleep peacefully.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34976,9 +34976,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Тем временем, клиент может продолжать свои посиделки в баре и приятно проводить время. Естественно, не бесплатно.</ORIGINAL>
-    <TRADUIT>Meanwhile, the customer can continue their hangout in the bar and have a good time. Of course, not for free.</TRADUIT>
+    <TRADUIT>Meanwhile, the customer can continue to hangout in the bar and have a good time. Of course, not for free.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -34994,9 +34994,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Собственно, вот, как это работает.</ORIGINAL>
-    <TRADUIT>Essentially, here's how it works.</TRADUIT>
+    <TRADUIT>Essentially, that how it works.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35014,7 +35014,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Если ты решишь стать клиентом моего заведения, с возможностью самообслуживания, то тебе потребуется специальная ключ-карта.</ORIGINAL>
     <TRADUIT>If you decide to become a customer of my establishment with self-service capabilities, you'll need a special key card.</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35032,7 +35032,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>После её приобретения, тебе необходимо зарегистрироваться в системе на одном из терминалов. Там же ты можешь пополнять свой счет в баре.</ORIGINAL>
     <TRADUIT>After getting it, you need to register in the system at one of the terminals. You can also top up your bar tab there.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35048,9 +35048,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Готово! После этих действий, бар в твоем распоряжении. Разумеется, пока крышечки не кончатся, хе-хе.</ORIGINAL>
-    <TRADUIT>Done! After these steps, the bar is at your disposal. Of course, as long as the bottle caps don't run out, hehe.</TRADUIT>
+    <TRADUIT>Done! After these steps, the bar is at your disposal. Of course, as long as the caps don't run out, hehe.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35079,9 +35079,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershMFBarSS</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Да?</ORIGINAL>
-    <TRADUIT>Really?</TRADUIT>
+    <TRADUIT>Yeah?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35125,7 +35125,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>О, это страницы из дневника моего предка,жившего задолго до войны и основавшего этот дом.</ORIGINAL>
     <TRADUIT>Oh, these are pages from the diary of my ancestor who lived long before the war and founded this house.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35138,9 +35138,10 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMStart</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Слушай, раз уж ты мне о них напомнил, у меня к тебе есть небольшая просьба. Естественно, не за бесплатно.</ORIGINAL>
-    <TRADUIT>Listen, since you reminded me of them, I have a small request for you. Naturally, not for free.</TRADUIT>
+    <TRADUIT>Listen, since you reminded me of them, I have a small request for you. 
+Ofcource, not for free.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35158,7 +35159,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Я давно хотела собрать все страницы дневника и, собственно, найти сам дневник. У меня никак руки не доходят сделать это.</ORIGINAL>
     <TRADUIT>I've wanted to collect all the diary pages and actually find the diary itself for a long time. I just haven't had the time to do it.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35176,7 +35177,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Как только нахожу новую страницу, не могу устоятоь и начинаю читать.</ORIGINAL>
     <TRADUIT>Whenever I find a new page, I can't resist and start reading.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35191,7 +35192,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Потом отвлекаюсь на что-нибудь: то клиент заглянет, то роботы что-нибудь учудят на улице. В общем, не суть.</ORIGINAL>
     <TRADUIT>Then I get distracted by something: a client will drop by, or the robots will do something crazy on the street. Anyway, it's not important.</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35207,9 +35208,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMStart</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Я бы хотела тебя попросить собрать все записи. Также, где-то в доме должен быть и сам дневник...</ORIGINAL>
-    <TRADUIT>I would like to ask you to gather all the notes. Also, somewhere in the house, the diary itself should be there...</TRADUIT>
+    <TRADUIT>I would like to ask you to gather all the notes. Also, diary itself should be somewhere in the house</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35227,7 +35228,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ладно, давай пока так: как найдешь все страницы, принеси их мне. Я же пока подумаю, где может лежать сам дневник, и чем тебя наградить, идет?</ORIGINAL>
     <TRADUIT>Alright, let's do this for now: bring me all the pages when you find them. In the meantime, I'll think about where the diary might be and what reward suits you.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35256,9 +35257,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMStart</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Да?</ORIGINAL>
-    <TRADUIT>Really?</TRADUIT>
+    <TRADUIT>Yeah?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35302,7 +35303,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Отлично! Дай знать, как закончишь.</ORIGINAL>
     <TRADUIT>Great! Let me know when you're done.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35361,7 +35362,7 @@ SetObjectiveDisplayed MrShershGPGMQUEST 1 1</ORIGINAL>
     <ORIGINAL>Жаль, но если вдруг передумаешь, то дай мне знать</ORIGINAL>
     <TRADUIT>Too bad, but if you change your mind, let me know.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35392,7 +35393,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ладно</ORIGINAL>
     <TRADUIT>Alright.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -35423,7 +35424,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Да, что тебя интересует?</ORIGINAL>
     <TRADUIT>Yes, what are you interested in?</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35462,9 +35463,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMQOne</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Хм... Кажется, я находила около десяти или двенадцати пар страниц. О! Попробуй еще проверить участок снаружи. Я могла оставить, некоторые там.</ORIGINAL>
-    <TRADUIT>Hm... I think I found around ten or twelve pairs of pages. Oh! Try checking the area outside as well. I might have left some there.</TRADUIT>
+    <TRADUIT>Hm... I think I found around ten or twelve pairs of pages. Oh! Try checking the area outside. I might have left some there.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35492,7 +35493,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Как я уже говорила, около десяти или двенадцати пар страниц. Вроде, должно быть двенадцать.</ORIGINAL>
     <TRADUIT>Like I've already said, about ten or twelve pairs of pages. Seems like there should be twelve.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35533,7 +35534,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Нет, но думаю, что на какой-нибудь странице сказано, где он лежит.</ORIGINAL>
     <TRADUIT>No, but I think there might be something on one of the pages indicating where it is.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35559,9 +35560,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMQTwo</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Не-а. Но мне по-прежнему кажется, что ответ есть где-то на страницах.</ORIGINAL>
-    <TRADUIT>Nah. But I still feel like the answer is somewhere in the pages.</TRADUIT>
+    <TRADUIT>Nah. But I still feel like the answer is somewhere on the pages.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35602,7 +35603,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Честно, я и сама без понятия, почему часть страниц вырвана.</ORIGINAL>
     <TRADUIT>Honestly, I have no idea why some of the pages are torn out.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35617,7 +35618,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>А раскидала их по дому уже я. Страницы лежали то в подавале, то в столе, стоящем в чулане, то еще где...</ORIGINAL>
     <TRADUIT>And I'm the one who scattered them around the house. Pages were lying in the pantry, in a drawer, and elsewhere...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35669,9 +35670,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMNotesFounds</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Ух ты! Давай их скорее сюда.</ORIGINAL>
-    <TRADUIT>Wow! Let's have them here quickly.</TRADUIT>
+    <TRADUIT>Wow! Give me them quickly.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35684,9 +35685,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMNotesFounds</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Так, поглядим... Хм, эти я читала...</ORIGINAL>
-    <TRADUIT>Alright, let's see... Hm, I read these...</TRADUIT>
+    <TRADUIT>Alright, let's see... Hm, I`v read these...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35701,7 +35702,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Эти тоже...</ORIGINAL>
     <TRADUIT>These too...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35716,7 +35717,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>И эти...</ORIGINAL>
     <TRADUIT>And these...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35731,7 +35732,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>О, а вот эту я не дочитала... Ну-ка, что там насчет дневника...</ORIGINAL>
     <TRADUIT>Oh, but I didn't finish reading this one... Let's see, what does it say about the diary...</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35746,7 +35747,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ага... Хм... Доделать Икс в камине... Странно...</ORIGINAL>
     <TRADUIT>I see... Hm... Finish X in the fireplace... Strange...</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35761,7 +35762,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Так, я не уверена, но это единственная удачная зацепка. Судя по записям, тайник, скорее всего, в камине или возле него.</ORIGINAL>
     <TRADUIT>So, I'm not certain, but this is the only promising lead. Based on the entries, the stash is likely in the fireplace or near it.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35776,7 +35777,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Будь любезен, осмотри его. Очень надеюсь, что тайник действительно там.</ORIGINAL>
     <TRADUIT>Please check it out. I really hope the stash is truly there.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35831,9 +35832,9 @@ set MrShershGPGMQuest.PlayerGaveLists to 1</ORIGINAL>
     <EDID>MrShershGPGMNotesFounds</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Ух ты! Давай их скорее сюда.</ORIGINAL>
-    <TRADUIT>Wow! Let's have them here quickly.</TRADUIT>
+    <TRADUIT>Wow! Give me them quickly.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35846,9 +35847,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMNotesFounds</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Так, поглядим... Хм, эти я читала...</ORIGINAL>
-    <TRADUIT>Alright, let's see... Hm, I read these...</TRADUIT>
+    <TRADUIT>Alright, let's see... Hm, I`v read these...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35863,7 +35864,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Эти тоже...</ORIGINAL>
     <TRADUIT>These too...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35878,7 +35879,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>И эти...</ORIGINAL>
     <TRADUIT>And these...</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35893,7 +35894,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>О, а вот эту я не дочитала... Ну-ка, что там насчет дневника...</ORIGINAL>
     <TRADUIT>Oh, but I didn't finish reading this one... Let's see, what does it say about the diary...</TRADUIT>
     <INDEX>5</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35908,7 +35909,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ага... Хм... Доделать Икс в камине... Странно...</ORIGINAL>
     <TRADUIT>I see... Hm... Finish X in the fireplace... Strange...</TRADUIT>
     <INDEX>6</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35923,7 +35924,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Так, я не уверена, но это единственная удачная зацепка. Судя по записям, тайник, скорее всего, в камине или возле него.</ORIGINAL>
     <TRADUIT>So, I'm not certain, but this is the only promising lead. Based on the entries, the stash is likely in the fireplace or near it.</TRADUIT>
     <INDEX>7</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -35938,7 +35939,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Будь любезна, осмотри его. Очень надеюсь, что тайник действительно там.</ORIGINAL>
     <TRADUIT>Please, take a look at it. I really hope the stash is really there.</TRADUIT>
     <INDEX>8</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36008,7 +36009,7 @@ set MrShershGPGMQuest.PlayerGaveLists to 1</ORIGINAL>
     <ORIGINAL>Эх, странно, что я раньше не догадалась, что тайник там. Дай угадаю, выпирающая плитка? Я думала, что это заплатка для сколотого кирпича.</ORIGINAL>
     <TRADUIT>Oh, it's strange that I didn't realize earlier that the stash was there. Let me guess, the protruding tile? I thought it was just a patch for a chipped brick.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36023,7 +36024,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Говоришь там был ещё и пистолет? Дай-ка взглянуть...</ORIGINAL>
     <TRADUIT>So you say there was also a gun there? Let me take a look...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36038,7 +36039,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Так... Ага...</ORIGINAL>
     <TRADUIT>So... Uh-huh...</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36053,7 +36054,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ясно, дай мне немного времени, я подклею страницы в дневник и попробую починить револьвер. А пока располагайся.</ORIGINAL>
     <TRADUIT>Got it, give me a little time, I'll glue the pages in the diary and try to fix the revolver. In the meantime, make yourself comfortable.</TRADUIT>
     <INDEX>4</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36124,9 +36125,9 @@ DisablePlayerControls</ORIGINAL>
     <EDID>MrShershGPGMAfterDF</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Готово. Вот, посмотри какой красавец. Нравится? По глазам вижу, что нравится хе-хе.</ORIGINAL>
-    <TRADUIT>Done. Look, what a beauty. Like it? I can tell from your eyes that you like it, hehe.</TRADUIT>
+    <TRADUIT>Done. Look, what a beauty. Like it? I can tell by your eyes you like it, hehe.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36139,9 +36140,9 @@ EmotionType : Neutral</COMMENTAIRE>
     <EDID>MrShershGPGMAfterDF</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>В общем, я подумала и решила, что он и будет твоей наградой. А ещё, я зачислю 400 кредитов на твой счет в баре. Так сказать, в качестве бонуса.</ORIGINAL>
-    <TRADUIT>Well, I thought about it and decided that it will be your reward. And also, I'll credit 400 credits to your bar account. So to speak, as a bonus.</TRADUIT>
+    <TRADUIT>Well, I thought about it and decided that it will be your reward. And also, I'll add 400 credits to your bar account. So to speak, as a bonus.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36169,9 +36170,9 @@ EnablePlayerControls</ORIGINAL>
     <EDID>MrShershGPGMAfterDF</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Готово. Вот, посмотри какой красавец. Нравится? По глазам вижу, что нравится хе-хе.</ORIGINAL>
-    <TRADUIT>Done. Look, what a beauty. Like it? I can tell from your eyes that you like it, hehe.</TRADUIT>
+    <TRADUIT>Done. Look, what a beauty. Like it? I can tell by your eyes you like it, hehe.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36186,7 +36187,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>В общем, я подумала и решила, что он и будет твоей наградой. А ещё, я дам тебе 400 крышек. Так сказать, в качестве бонуса.</ORIGINAL>
     <TRADUIT>Well, I thought about it and decided that it will be your reward. And also, I'll give you 400 caps. So to speak, as a bonus.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36214,9 +36215,9 @@ EnablePlayerControls</ORIGINAL>
     <EDID>MrShershGPGMAfterDF</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Отлично. Я собрала дневник. В качестве награды зачислю тебе 500 кредитов на счет в баре.</ORIGINAL>
-    <TRADUIT>Excellent. I've collected the diary. As a reward, I'll credit 500 credits to your bar account.</TRADUIT>
+    <TRADUIT>Excellent. I've collected the diary. As a reward, I'll add 500 credits to your bar account.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36246,7 +36247,7 @@ EnablePlayerControls</ORIGINAL>
     <ORIGINAL>Отлично. Я собрала дневник. В качестве награды дам тебе 400 крышек.</ORIGINAL>
     <TRADUIT>Excellent. I've collected the diary. As a reward, I'll give you 400 caps.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36289,7 +36290,7 @@ EnablePlayerControls</ORIGINAL>
     <ORIGINAL>Ха! Наслаждайся! Кстати, пока не ушел, можешь потратить свои кредиты в баре.</ORIGINAL>
     <TRADUIT>Ha! Enjoy! By the way, while you're still here, you can spend your credits at the bar.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Alexander [000E604F] (file)
 NPC : Марина Фокс [0600A05D] (mod)
@@ -36332,7 +36333,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Ха! Наслаждайся! Кстати, пока не ушел, можешь потратить свои деньги в баре или купить у меня что-нибудь.</ORIGINAL>
     <TRADUIT>Ha! Enjoy! By the way, before you leave, you can spend your money at the bar or buy something from me.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36374,7 +36375,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Кстати, пока не ушел, можешь потратить свои новые кредиты в баре.</ORIGINAL>
     <TRADUIT>By the way, while you're still here, you can spend your new credits at the bar.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36416,7 +36417,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Кстати, пока не ушел, можешь потратить свои новые деньги в баре или купить у меня что-нибудь.</ORIGINAL>
     <TRADUIT>By the way, while you're still here, you can spend your new money at the bar or buy something from me.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36471,7 +36472,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Не переживай на этот счет. Я успела подумать об этом, пока ремонтировала его.</ORIGINAL>
     <TRADUIT>Don't worry about that. I had time to think about it while I was repairing it.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36486,7 +36487,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Для меня этот красавец все же будет великоват. А, что касается моего парня, то он предпочитает другой тип оружия.</ORIGINAL>
     <TRADUIT>This beauty will be a bit too much for me. As for my boyfriend, he prefers a different type of weapon.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36501,7 +36502,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>В общем, подумав, я решила, что будет очень жаль, если револьвер будет пылиться где-нибудь без дела, как в этом камине.</ORIGINAL>
     <TRADUIT>Anyway, I thought it would be a shame if the revolver just collected dust somewhere like in this fireplace.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36555,7 +36556,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Да брось! Я настаиваю, бери</ORIGINAL>
     <TRADUIT>Come on! I insist, take it.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Alexander [000E604F] (file)
 NPC : Марина Фокс [0600A05D] (mod)
@@ -36584,7 +36585,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Эх, как знаешь... Хорошо, тогда, вместо него, я бонусом добавлю ещё 500 кредитов в баре. Спасибо, что помог отыскать дневник.</ORIGINAL>
     <TRADUIT>Oh, well... Alright then, instead of it, I'll add an additional 500 credits to your bar account as a bonus. Thanks for helping find the diary.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36626,7 +36627,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Эх, как знаешь...  Хорошо, тогда, вместо него, я бонусом добавлю ещё 300 крышек. Спасибо, что помог отыскать дневник.</ORIGINAL>
     <TRADUIT>Well, as you wish... Alright then, I'll throw in an additional 300 caps as a bonus. Thanks for helping find the diary.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>1</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36681,7 +36682,7 @@ StopQuest MrShershGPGMQuest</ORIGINAL>
     <ORIGINAL>Эх, странно, что я раньше не догадалась, что тайник там. Дай угадаю, выпирающая плитка? Я думала, что это заплатка для сколотого кирпича.</ORIGINAL>
     <TRADUIT>Oh, it's strange that I didn't realize earlier that the stash was there. Let me guess, the protruding tile? I thought it was just a patch for a chipped brick.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36696,7 +36697,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ясно, дай мне немного времени, я подклею страницы в дневник. А пока располагайся.</ORIGINAL>
     <TRADUIT>Alright, give me a little time, I'll glue the pages into the diary. In the meantime, make yourself comfortable.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([060775E7]MrShershGPGMQUEST) ИСТОРИЯ УИЛЬЯМА ФОКС
@@ -36768,7 +36769,7 @@ DisablePlayerControls</ORIGINAL>
     <ORIGINAL>Хм... А чего сразу не сказал? Ладно, главное, что все-таки сказал.</ORIGINAL>
     <TRADUIT>Hm... Why didn't you say so right away? Well, the main thing is that you told me eventually.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -36786,7 +36787,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Так... Ага...</ORIGINAL>
     <TRADUIT>So... Uh-huh...</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -36804,7 +36805,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>Ясно, подожди немного, я попробую починить его в мастерской. Можешь пока располагаться.</ORIGINAL>
     <TRADUIT>Alright, wait a bit, I'll try to fix it in the workshop. You can hang around for now.</TRADUIT>
     <INDEX>3</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0600A05E]MrShershMarinaFoxQUEST) МАРИНА ФОКС
@@ -36877,9 +36878,9 @@ DisablePlayerControls</ORIGINAL>
     <EDID>MrShershGPGMSequoiaAfterRepair</EDID>
     <CHAMP>NAM1</CHAMP>
     <ORIGINAL>Готово. Вот, посмотри какой красавец. Нравится? По глазам вижу, что нравится хе-хе.</ORIGINAL>
-    <TRADUIT>Done. Look, what a beauty. Like it? I can tell from your eyes that you like it, hehe.</TRADUIT>
+    <TRADUIT>Done. Look, what a beauty. Like it? I can tell by your eyes you like it, hehe.</TRADUIT>
     <INDEX>1</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0607F3DF]MrShershGPGMSequoiaQUEST) Ремонт секвойи без дневника
@@ -36894,7 +36895,7 @@ EmotionType : Neutral</COMMENTAIRE>
     <ORIGINAL>В общем, я подумала и решила, что отдам его тебе.</ORIGINAL>
     <TRADUIT>Well, I've thought about it and decided that I'll give it to you.</TRADUIT>
     <INDEX>2</INDEX>
-    <STATUS>0</STATUS>
+    <STATUS>99</STATUS>
     <IDSTEXTE>-1</IDSTEXTE>
     <COMMENTAIRE>NPC : Марина Фокс [0600A05D] (mod)
 Quest : ([0607F3DF]MrShershGPGMSequoiaQUEST) Ремонт секвойи без дневника
